@@ -1,4 +1,4 @@
-# 👋 Hi, I’m PAKR TASOO. U can call me dinho
+# 👋 Hi, I’m PAKR TASOO. U can call me Dinho
 - `👀 I’m interested in Machine Learning(ML)`
 - `👨‍🎓 I’m currently learning Electronic engineering & ML`
 *******

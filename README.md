@@ -1,6 +1,8 @@
 # 👋 Hi, I’m PAKR TASOO. U can call me Dinho
 - `👀 I’m interested in Machine Learning(ML)`
 - `👨‍🎓 I’m currently learning Electronic engineering & ML`
+- `🏛 Catholic Kwandong Univ. 2020.03. ~ 2023. 02.`
+- `🏛 Kwangwoon Univ. 2023.03 ~ Electronic engineering`
 *******
 <details>
 <summary>About Me </summary>

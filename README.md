@@ -12,7 +12,7 @@
 
 <details>
 <summary>About Me </summary>
-<span>
+<span align="center">
   <a href="https://www.instagram.com/dinho_itt/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>

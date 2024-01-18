@@ -23,8 +23,8 @@
   </span>
 </span>
 
-<div align="center">
-  [![image](https://dinhoitt.github.io/assets/profile.jpg)]
-</div>
+<p align="center">
+  <img src="https://dinhoitt.github.io/assets/profile.jpg">
+</p>
 
 </details>

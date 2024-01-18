@@ -24,7 +24,7 @@
   <a href="https://dinhoitt.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
-  <a href="[https://dinhoitt.github.io](https://soundcloud.com/dinho-itt)">
+  <a href="https://soundcloud.com/dinho-itt">
     <img src="https://img.shields.io/badge/Soundcloud-FF3300?style=plastic&logo=Soundcloud&logoColor=white"/>
   </a>
 </span>

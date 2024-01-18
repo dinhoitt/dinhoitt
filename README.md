@@ -15,7 +15,7 @@
   </a>
   </span>
 </span>
-
+</details>
 
 ![DINHO's GitHub stats](https://github-readme-stats.vercel.app/api?DINHO=anuraghazra&show_icons=true&theme=radical)
 

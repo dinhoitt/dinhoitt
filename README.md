@@ -22,4 +22,9 @@
   </a>
   </span>
 </span>
+
+<div align="center">
+  ![image](https://dinhoitt.github.io/assets/profile.jpg)
+</div>
+
 </details>

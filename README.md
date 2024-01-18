@@ -21,11 +21,12 @@
   <a href="https://www.instagram.com/dinho_itt/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
-  <span>
   <a href="https://dinhoitt.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
-  </span>
+  <a href="[https://dinhoitt.github.io](https://soundcloud.com/dinho-itt)">
+    <img src="https://img.shields.io/badge/Soundcloud-FF3300?style=plastic&logo=Soundcloud&logoColor=white"/>
+  </a>
 </span>
 
 <p align="center">

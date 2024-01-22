@@ -2,6 +2,12 @@
 - `👀 I’m interested in Machine Learning(ML)`
 - `👨‍🎓 I’m currently learning Electronic engineering & ML`
 - `🏛 Kwangwoon Univ. Electronic engineering`
+  
+<div align="center">
+    <img width="500px" alt="hello GIF" src="https://mblogthumb-phinf.pstatic.net/MjAxODA5MzBfMTYx/MDAxNTM4MjMzMzc5MzU1.bF8trveQwRnofI2grXEFyBPMm_Yt5TjO1koGyOvqjc8g.jfS239QyXMe2q4G7J-qSva6M2z3zfcg0nBNdJt9OjJEg.GIF.copymach/i15988193227.gif?type=w800">
+</div>
+
+
 *******
 
 <p align="center">

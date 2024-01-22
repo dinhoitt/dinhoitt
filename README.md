@@ -4,7 +4,7 @@
 - `🏛 Kwangwoon Univ. Electronic engineering`
   
 <div align="center">
-    <img width="500px" alt="hello GIF" src="https://38.media.tumblr.com/b4284f9795f509a1a9b1ada883a73f3b/tumblr_nthltvdUN51uq60ymo1_500.gif">
+    <img width="500px" alt="hello GIF" src="https://studyforus.com/files/attach/images/1816/169/419/cbcd64d257519f0bf5ef2bd3fa593bb7.gif">
 </div>
 
 

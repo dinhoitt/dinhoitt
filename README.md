@@ -4,7 +4,7 @@
 - `🏛 Kwangwoon Univ. Electronic engineering`
   
 <div align="center">
-    <img width="500px" alt="hello GIF" src="https://gifdb.com/images/high/programmer-cat-typing-on-laptop-j6rz6vr5mlfzl83h.webp">
+    <img width="500px" alt="hello GIF" src="https://gifdb.com/images/high/cramming-cat-typing-on-laptop-0menfmg7diz4m0oc.webp">
 </div>
 
 

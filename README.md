@@ -14,6 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dinhoitt">
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdinhoitt&count_bg=%237BDED7&title_bg=%23555555&icon=github.svg&icon_color=%23F6F6F6&title=hits&edge_flat=false">
+</p>
 
 <details align="center">
 <summary>About Me </summary>
